@@ -180,24 +180,11 @@ gradient: LinearGradient(
 ## Screenshots
 
 ### Main Screen
-<img src="screenshots/main_screen.png" alt="Main Skills Screen" width="800"/>
+<img src="screenshots/main-screen.png" alt="Main Skills Screen" width="800"/>
 
 *Figure 1: Main skills training screen showing three horizontal carousels (Basic, Intermediate, Advanced) with modern 3D glassmorphism cards*
 
-### 3D Card Details
-<img src="screenshots/card_detail.png" alt="3D Card Detail" width="400"/>
 
-*Figure 2: Close-up view of individual skill cards showing glassmorphism effects, circular gradient borders, and level badges*
-
-### Animation Demo
-<img src="screenshots/animation_demo.gif" alt="Animation Demo" width="600"/>
-
-*Figure 3: Animation demonstration showing card interactions - scale effects, glow animations, and smooth scrolling*
-
-### Responsive Design
-<img src="screenshots/responsive_design.png" alt="Responsive Design" width="800"/>
-
-*Figure 4: Responsive layout demonstration across different screen sizes (mobile, tablet, desktop)*
 
 ---
 
