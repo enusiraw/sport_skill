@@ -179,7 +179,66 @@ gradient: LinearGradient(
 
 ## Screenshots
 
-See `UI_PREVIEW.md` for detailed visual mockup descriptions.
+### Main Screen
+<img src="screenshots/main_screen.png" alt="Main Skills Screen" width="800"/>
+
+*Figure 1: Main skills training screen showing three horizontal carousels (Basic, Intermediate, Advanced) with modern 3D glassmorphism cards*
+
+### 3D Card Details
+<img src="screenshots/card_detail.png" alt="3D Card Detail" width="400"/>
+
+*Figure 2: Close-up view of individual skill cards showing glassmorphism effects, circular gradient borders, and level badges*
+
+### Animation Demo
+<img src="screenshots/animation_demo.gif" alt="Animation Demo" width="600"/>
+
+*Figure 3: Animation demonstration showing card interactions - scale effects, glow animations, and smooth scrolling*
+
+### Responsive Design
+<img src="screenshots/responsive_design.png" alt="Responsive Design" width="800"/>
+
+*Figure 4: Responsive layout demonstration across different screen sizes (mobile, tablet, desktop)*
+
+---
+
+## 📸 Adding Screenshots
+
+To add actual screenshots to this README:
+
+1. **Run the app**: `flutter run`
+2. **Take screenshots** of the running app:
+   - **Desktop**: Use built-in screenshot tools
+   - **Mobile**: Use device screenshot functionality
+   - **Web**: Use browser developer tools or screenshot extensions
+
+3. **Optimize images**:
+   - **Main screen**: 800x600px, PNG format
+   - **Card details**: 400x300px, PNG format
+   - **Animations**: Create GIF for motion effects
+
+4. **Save in project**:
+   ```
+   screenshots/
+   ├── main_screen.png
+   ├── card_detail.png
+   ├── animation_demo.gif
+   └── responsive_design.png
+   ```
+
+5. **Alternative: Use placeholder images**
+   - Replace screenshot paths with placeholder URLs if you don't have actual screenshots yet
+   - Example: `https://via.placeholder.com/800x600/1A237E/FFFFFF?text=Main+Screen`
+
+## 🎨 Visual Features Captured
+
+The screenshots demonstrate:
+- **Modern gradient background** (deep slate → indigo → purple → violet → neon pink)
+- **3D glassmorphism cards** with multi-layer shadows and transparency
+- **Gradient text headers** with glassmorphism skill count badges
+- **Smooth animations** including scale effects and pulsing glows
+- **Responsive horizontal scrolling** with momentum physics
+- **Modern typography** using Poppins font family
+- **Color-coded levels** (green, amber, pink) for visual hierarchy
 
 ## Documentation
 
